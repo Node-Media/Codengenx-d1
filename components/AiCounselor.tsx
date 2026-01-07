@@ -6,7 +6,7 @@ import { ChatMessage, LoadingState } from '../types';
 const AiCounselor: React.FC = () => {
   const [query, setQuery] = useState('');
   const [messages, setMessages] = useState<ChatMessage[]>([
-    { role: 'model', text: 'Hello! I am your SkillForge Career Advisor. Tell me about your career goals (e.g., "I want to become a Full Stack Developer") and I will recommend the best learning path for you.' }
+    { role: 'model', text: 'Hello! I am your CodengenX Career Advisor. Tell me about your career goals (e.g., "I want to become a Full Stack Developer") and I will recommend the best learning path for you.' }
   ]);
   const [status, setStatus] = useState<LoadingState>(LoadingState.IDLE);
   const messagesEndRef = useRef<HTMLDivElement>(null);

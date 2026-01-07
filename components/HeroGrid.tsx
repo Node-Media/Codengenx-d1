@@ -84,7 +84,7 @@ const HeroGrid: React.FC = () => {
             Empowering Learners, <br/> Transforming Futures
           </h4>
           <p className="text-sm text-gray-600 leading-relaxed">
-            At SkillForge, we believe education should be accessible, engaging, and tailored to every learner.
+            At CodengenX, we believe education should be accessible, engaging, and tailored to every learner.
             Our mission is to bridge the gap between knowledge and opportunity.
           </p>
         </div>

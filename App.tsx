@@ -43,7 +43,7 @@ function App() {
         <section className="bg-brand-orange text-white py-24 text-center px-6">
           <h2 className="text-4xl md:text-6xl font-bold mb-6">Ready to start?</h2>
           <p className="text-white/80 max-w-xl mx-auto mb-10 text-lg">
-            Join 50,000+ engineers mastering their craft with SkillForge. Get started today and transform your career.
+            Join 50,000+ engineers mastering their craft with CodengenX. Get started today and transform your career.
           </p>
           <button className="bg-white text-brand-orange px-10 py-4 font-bold text-lg hover:bg-gray-100 transition-colors">
             Get Started Now

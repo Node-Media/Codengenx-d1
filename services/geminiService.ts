@@ -4,7 +4,7 @@ import { COURSES } from "../constants";
 const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
 
 const SYSTEM_INSTRUCTION = `
-You are a senior academic counselor at SkillForge, an elite training agency for Computer Science students.
+You are a senior academic counselor at CodengenX, an elite training agency for Computer Science students.
 Your goal is to recommend courses from our catalog based on the user's career aspirations.
 Our Catalog:
 ${JSON.stringify(COURSES.map(c => ({ title: c.title, category: c.category, description: c.description })))}

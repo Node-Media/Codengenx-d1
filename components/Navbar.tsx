@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
             <div className="w-8 h-8 bg-brand-black text-white flex items-center justify-center transition-transform group-hover:rotate-12">
               <Sparkles size={16} />
             </div>
-            <span className="text-xl font-bold tracking-tight text-brand-black">SkillForge</span>
+            <span className="text-xl font-bold tracking-tight text-brand-black">CodengenX</span>
           </a>
         </div>
 
